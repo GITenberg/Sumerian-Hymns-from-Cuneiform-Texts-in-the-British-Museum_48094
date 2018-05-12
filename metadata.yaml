@@ -1,4 +1,8 @@
 _repo: Sumerian-Hymns-from-Cuneiform-Texts-in-the-British-Museum_48094
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48094-h/images/cover.jpg
 creator:
   author:
     agent_name: Vanderburgh, Frederick Augustus
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44619'
     url: http://www.gutenberg.org/2009/agents/44619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48094#Sumerian-Hymns-from-Cuneiform-Texts-in-the-British-Museum
 gutenberg_issued: '2015-01-27'
 gutenberg_type: Text
 identifiers:
